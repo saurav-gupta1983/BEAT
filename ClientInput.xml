@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Illustrator>
+  <Binaries>
+    <Binary>
+      <MediaType>ESD</MediaType>
+      <Key></Key>
+      <Platforms>
+        <Platform></Platform>
+      </Platforms>
+    </Binary>
+    <WIN>
+      <LOCALE>ENGLISH</LOCALE>
+      <LOCALE>GERMAN</LOCALE>
+    </WIN>
+  </Binaries>
+</Illustrator>

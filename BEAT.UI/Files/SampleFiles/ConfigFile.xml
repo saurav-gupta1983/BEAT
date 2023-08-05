@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildConfiguration>
+  <Header>
+    <IdentifyYourself>QAI</IdentifyYourself>
+    <MachineNo>1</MachineNo>
+    <Country>India</Country>
+    <ShareMachineDetails>true</ShareMachineDetails>
+    <Testing></Testing>
+  </Header>
+  <Products>
+    <Product>
+      <Name>Illustrator</Name>
+      <Enable>true</Enable>
+      <Build>
+        <BuildConfigurationID></BuildConfigurationID>
+        <BuildPath></BuildPath>
+      </Build>
+      <ContactID></ContactID>
+    </Product>
+    <Product>
+      <Name>InDesign</Name>
+    </Product>
+  </Products>
+</BuildConfiguration>

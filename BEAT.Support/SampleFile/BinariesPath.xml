@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<server Path="C:\Saurav\Rakesh\Files">
+  <DYNAMIC Name="Feature">
+    <Win64>
+      <DYNAMIC Name="Build#"></DYNAMIC>
+    </Win64>
+    <xcode64>
+      <DYNAMIC Name="Build#"></DYNAMIC>
+    </xcode64>
+  </DYNAMIC>
+</server>
